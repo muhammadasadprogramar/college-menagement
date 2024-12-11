@@ -55,27 +55,27 @@ const Header = () => {
             {/* Navigation Links - Desktop */}
             <div className="hidden md:flex md:items-center md:space-x-4 lg:space-x-8">
               <a
-                className="text-sm lg:text-base text-gray-500 font-medium hover:text-gray-900 transition duration-300"
+                className="text-sm cursor-pointer lg:text-base text-gray-500 font-medium hover:text-gray-900 transition duration-300"
               >
                 HOME
               </a>
               <a
-                className="text-sm lg:text-base text-gray-500 font-medium hover:text-gray-900 transition duration-300"
+                className="text-sm cursor-pointer lg:text-base text-gray-500 font-medium hover:text-gray-900 transition duration-300"
               >
                 COLLEGE TEACHING INTERNS
               </a>
               <a
-                className="text-sm lg:text-base text-gray-500 font-medium hover:text-gray-900 transition duration-300"
+                className="text-sm cursor-pointer lg:text-base text-gray-500 font-medium hover:text-gray-900 transition duration-300"
               >
                 COLLEGES
               </a>
               <a
-                className="text-sm lg:text-base text-gray-500 font-medium hover:text-gray-900 transition duration-300"
+                className="text-sm cursor-pointer lg:text-base text-gray-500 font-medium hover:text-gray-900 transition duration-300"
               >
                 OUR TEAM
               </a>
               <a
-                className="text-sm lg:text-base text-gray-500 font-medium hover:text-gray-900 transition duration-300"
+                className="text-sm cursor-pointer lg:text-base text-gray-500 font-medium hover:text-gray-900 transition duration-300"
               >
                 CONTACT
               </a>
@@ -101,28 +101,28 @@ const Header = () => {
           >
             <div className="px-2 pt-2 pb-3 space-y-1">
               <a
-                className="block px-3 py-2 text-base font-medium text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded-md transition duration-300"
+                className="block px-3 cursor-pointer py-2 text-base font-medium text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded-md transition duration-300"
               >
                 Home
               </a>
               <a
-                className="block px-3 py-2 text-base font-medium text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded-md transition duration-300"
+                className="block px-3 cursor-pointer py-2 text-base font-medium text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded-md transition duration-300"
               >
                 College Teaching Interns
               </a>
               <a
-                className="block px-3 py-2 text-base font-medium text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded-md transition duration-300"
+                className="block px-3 cursor-pointer py-2 text-base font-medium text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded-md transition duration-300"
               >
                 Colleges
               </a>
               <a
-                className="block px-3 py-2 text-base font-medium text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded-md transition duration-300"
+                className="block px-3 py-2 cursor-pointer text-base font-medium text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded-md transition duration-300"
               >
                 Our Team
               </a>
               <a
                 href="#"
-                className="block px-3 py-2 text-base font-medium text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded-md transition duration-300"
+                className="block px-3 py-2 cursor-pointer text-base font-medium text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded-md transition duration-300"
               >
                 Contact
               </a>
