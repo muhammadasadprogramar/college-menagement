@@ -15,10 +15,9 @@ const FacilitationCouncil = () => {
             </div>
             <div className="w-full md:w-7/12 flex justify-center items-center">
               <a 
-                href="/" 
                 target="_blank"
                 rel="noopener noreferrer"
-                className="w-full sm:w-auto"
+                className="w-full sm:w-auto cursor-pointer"
               >
                 <button
                   type="button"
